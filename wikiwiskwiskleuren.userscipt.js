@@ -7,6 +7,7 @@
 // @match        https://www.wikiwiskwis.be/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wikiwiskwis.be
 // @grant        none
+// @licence      GNU General Public License v3.0
 // ==/UserScript==
 
 var TheColors = ['#CD6155','#AF7AC5','#5499C7','#48C9B0','#F7DC6F','#F8C471','#E59866',
